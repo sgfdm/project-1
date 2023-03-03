@@ -58,7 +58,7 @@ resource "azurerm_storage_account" "storage-account-project1" {
 }
 
 /* 
-    Creating AZ Linux VM 
+    Creating AZ Windows VM 
 */
 
 resource "azurerm_virtual_network" "vm-project1" {
